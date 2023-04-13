@@ -1,0 +1,21 @@
+.back{
+    padding:14px;
+ 
+}
+
+#dltbtn{
+    background-color: #bf1919;
+    border: 1px solid rgba(0, 0, 0, 0.28);
+    border-radius: 3.5px;
+    color:white;
+    padding:2.5px;
+    width:60;
+    
+} 
+
+#footers{
+    top:30vh;
+    width:100%;
+    position:relative;
+}
+/* #2E5C78 */
